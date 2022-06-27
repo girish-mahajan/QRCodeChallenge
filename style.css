@@ -34,7 +34,8 @@ img {
   color: var(--Dark-blue);
 }
 
-.card .card-text h2 {
+.card .card-text h1 {
+  font-size: 1.5em;
   margin-block: 1em 0;
 }
 
